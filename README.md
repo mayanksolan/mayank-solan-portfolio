@@ -1,6 +1,6 @@
 ![ReactJS Resume Website](portfolio-screenshot.png?raw=true "ReactJS Resume Website")
 
-### <a href="">LIVE DEMO</a>
+### <a href="https://mayanksolan.github.io/mayank-solan-portfolio/">LIVE DEMO</a>
 
 ### 1. Make sure you have what you need
 
