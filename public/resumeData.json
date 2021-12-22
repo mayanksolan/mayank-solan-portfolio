@@ -151,34 +151,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Github Finder",
+        "category": "A site which finds out the github profiles",
+        "image": "github-finder.png",
+        "url": "https://githubfindermays.netlify.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "IP Address Tracker",
+        "category": "Site to pin point the location for a specific IP address",
+        "image": "ip-address-tracker.png",
+        "url": "https://mayanksolan.github.io/ip-address-tracker/"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Gmail Clone",
+        "category": "A gmail clone with functioanily to login and send mails",
+        "image": "gmail-clone.png",
+        "url": "https://clone-ms-7a97c.web.app/"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Tip Calculator App",
+        "category": "An app to calculate tip",
+        "image": "tip-calculator.png",
+        "url": "https://mayanksolan.github.io/tip-calculator/"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Color Game App",
+        "category": "An app to find the color based on the code",
+        "image": "color-game.png",
+        "url": "https://sheltered-brushlands-57379.herokuapp.com/"
       }
     ]
   },
