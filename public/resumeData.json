@@ -83,67 +83,67 @@
     "skills": [
       {
         "name": "Javascript",
-        "path": "/skills/javascript.png",
+        "path": "skills/javascript.png",
         "level": "70%"
       },
       {
         "name": "HTML",
-        "path": "/skills/html.png",
+        "path": "skills/html.png",
         "level": "80%"
       },
       {
         "name": "CSS",
-        "path": "/skills/css.png",
+        "path": "skills/css.png",
         "level": "65%"
       },
       {
         "name": "Git",
-        "path": "/skills/git.png",
+        "path": "skills/git.png",
         "level": "60%"
       },
       {
         "name": "ReactJs",
-        "path": "/skills/react.png",
+        "path": "skills/react.png",
         "level": "90%"
       },
       {
         "name": "Redux",
-        "path": "/skills/redux.png",
+        "path": "skills/redux.png",
         "level": "80%"
       },
       {
         "name": "NextJs",
-        "path": "/skills/nextjs.png",
+        "path": "skills/nextjs.png",
         "level": "80%"
       },
       {
         "name": "Typescript",
-        "path": "/skills/typescript.png",
+        "path": "skills/typescript.png",
         "level": "70%"
       },
       {
         "name": "SASS",
-        "path": "/skills/sass.png",
+        "path": "skills/sass.png",
         "level": "70%"
       },
       {
         "name": "Material-UI",
-        "path": "/skills/materialui.png",
+        "path": "skills/materialui.png",
         "level": "70%"
       },
       {
         "name": "Bootstrap",
-        "path": "/skills/bootstrap.png",
+        "path": "skills/bootstrap.png",
         "level": "70%"
       },
       {
         "name": "MongoDB",
-        "path": "/skills/mongodb.png",
+        "path": "skills/mongodb.png",
         "level": "60%"
       },
       {
         "name": "Postgresql",
-        "path": "/skills/postgresql.png",
+        "path": "skills/postgresql.png",
         "level": "60%"
       }
     ]
