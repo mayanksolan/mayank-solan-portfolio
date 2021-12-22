@@ -1,4 +1,4 @@
-![ReactJS Resume Website](resume-screenshot.png?raw=true "ReactJS Resume Website")
+![ReactJS Resume Website](portfolio-screenshot.png?raw=true "ReactJS Resume Website")
 
 ### <a href="">LIVE DEMO</a>
 
