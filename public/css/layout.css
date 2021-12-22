@@ -408,12 +408,13 @@ ul#nav li.current a {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .skill-element {
   display: flex;
   flex-direction: column;
   text-align: center;
-  padding-right: 4%;
+  padding-right: 0% 2%;
 }
 .skill-image {
   width: 100px;
